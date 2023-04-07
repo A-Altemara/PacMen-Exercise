@@ -3,18 +3,19 @@ A small program with a button that generates the user determined amount of Pacme
 
 <img src="PacMan1.png">
 
-How to run: 
+## How to run: 
 Drag HTML page into brower window, click on Add PacMan button to add as many PacMen as desired, then click the Start Game button. Enjoy!
 
+## Updates
 Most recently Updated code so that the PacMen would reverse directions when the hit the left and right walls and would chomp as they do in the game.
 
-Road Map:
+## Road Map:
 Correct Pacmen generating over the Start Game button
 Include virtical or diagonal facing Pacman for true directional represnetation
 splitting JS into seperate file for better readability
 
 
-License: 
+## License: 
 MIT License
 
 Copyright (c) 2023 Airiel Altemara
