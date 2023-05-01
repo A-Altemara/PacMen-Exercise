@@ -1,4 +1,4 @@
-# pacmen
+# Pacmen
 A small program with a button that generates the user determined amount of Pacmen. At any point the user can then hit the start game button and the Pacmen will start to move around the bounds of the screen and bounce off the walls, changing direction base on the left and right boundries.
 
 <img src="PacMan1.png">
