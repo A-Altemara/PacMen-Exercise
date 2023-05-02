@@ -12,7 +12,7 @@ Most recently Updated code so that the PacMen would reverse directions when the 
 ## Road Map:
 Correct Pacmen generating over the Start Game button
 Include virtical or diagonal facing Pacman for true directional represnetation
-splitting JS into seperate file for better readability
+Combining with the Balls game to generate nodes for Pacmen to "eat"
 
 
 ## License: 
